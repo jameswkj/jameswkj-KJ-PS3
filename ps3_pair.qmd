@@ -1,6 +1,6 @@
 ---
 title: "30538 Problem Set 3: git pair"
-author: "Kaijie(KJ) Wu"
+author: "Kaijie Wu"
 format: 
   pdf:
     keep-tex: true
